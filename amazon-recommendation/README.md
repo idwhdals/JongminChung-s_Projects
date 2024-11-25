@@ -1,6 +1,3 @@
-
-#### **amazon-recommendation/README.md**
-```markdown
 # Amazon Books Recommendation System
 
 ### Overview
