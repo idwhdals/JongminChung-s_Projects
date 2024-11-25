@@ -4,7 +4,7 @@
 This repository contains a collection of data science projects by Jongmin Chung, showcasing expertise in NLP, recommendation systems, and data analysis.
 
 ### Projects
-1. [DataFest NLP Sentiment Analysis](datafest-nlp/README.md)  
+1. [DataFest NLP Sentiment Analysis](datafest-nlp-project/README.md)  
    Using sentiment analysis to improve lawyer-client communication.
 
 2. [Amazon Books Recommendation System](amazon-recommendation/README.md)  
