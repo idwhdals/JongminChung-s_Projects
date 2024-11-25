@@ -1,7 +1,7 @@
 # DataFest NLP Sentiment Analysis Project
 
 ### Overview
-This project focuses on natural language processing (NLP) and sentiment analysis to evaluate and improve lawyer-client communication. It was created for the DataFest 2023 competition.
+This project focuses on natural language processing (NLP) and sentiment analysis to evaluate and improve lawyer-client communication.
 
 ### Key Features
 - Sentiment classification (positive/negative) using Python-based NLP tools.
