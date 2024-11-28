@@ -15,10 +15,10 @@ This project focuses on natural language processing (NLP) and sentiment analysis
 
 ## Project Structure
 
-- **[src/](src/)**: Contains Python scripts used for data preprocessing and analysis.
-- **[data/](data/)**: Includes raw and processed data files for analysis.
-- **[presentation/](presentation/)**: Contains presentation materials summarizing project insights.
-- **[database/](database/)**: SQL project files used for data storage and queries.
+- **[src](src/)**: Contains Python scripts used for data preprocessing and analysis.
+- **[data](data/)**: Includes raw and processed data files for analysis.
+- **[presentation](presentation/)**: Contains presentation materials summarizing project insights.
+- **[database](database/)**: SQL project files used for data storage and queries.
 
 
 
