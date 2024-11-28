@@ -8,8 +8,4 @@ This project builds a personalized book recommendation system using the ALS algo
 - ALS algorithm for personalized recommendations.
 - Evaluated performance with RMSE metrics.
 
-### How to Run
-1. Install required libraries:
-   ```bash
-   pip install -r requirements.txt
 
