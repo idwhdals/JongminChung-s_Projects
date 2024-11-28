@@ -20,7 +20,3 @@ This project focuses on natural language processing (NLP) and sentiment analysis
 - `database/`: SQL project files used for data storage and queries.
 
 
-### How to Run
-1. Install the required Python libraries:
-   ```bash
-   pip install -r requirements.txt
